@@ -5,21 +5,21 @@
     "brand": {
       "brand_name": "Bandhan Store",
       "brand_tagline": "Weaving Traditions, Celebrating You.",
-      "brand_logo": "/organizations/bandhan/upload_image/2025-10-09T10-26-08-629Z_unnamed.jpg",
+      "brand_logo": "organizations/bandhan/upload_image/2025-10-09T10-26-08-629Z_unnamed.jpg",
       "brand_website": "",
       "brand_description": ""
     },
     "categories": [
       {
         "category_name": "NEW ARRIVALS",
-        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-26-41-767Z_NEW-ARRIVALS.webp"
+        "category_image": "organizations/bandhan/upload_image/2025-10-09T10-26-41-767Z_NEW-ARRIVALS.webp"
       },
       {
         "category_description_0": ""
       },
       {
         "category_name": "KURTA AND BUNDIS",
-        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-27-57-272Z_KURTA-AND-BUNDIS.webp"
+        "category_image": "organizations/bandhan/upload_image/2025-10-09T10-27-57-272Z_KURTA-AND-BUNDIS.webp"
       },
       {
         "category_description_2": ""
