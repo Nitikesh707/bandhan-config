@@ -1,0 +1,99 @@
+{
+  "timestamp": "2025-10-09T10:31:15.210Z",
+  "data": {
+    "timestamp": "2025-10-09T10:31:14.723Z",
+    "brand": {
+      "brand_name": "Bandhan Store",
+      "brand_tagline": "Weaving Traditions, Celebrating You.",
+      "brand_logo": "/organizations/bandhan/upload_image/2025-10-09T10-26-08-629Z_unnamed.jpg",
+      "brand_website": "",
+      "brand_description": ""
+    },
+    "categories": [
+      {
+        "category_name": "NEW ARRIVALS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-26-41-767Z_NEW-ARRIVALS.webp"
+      },
+      {
+        "category_description_0": "🌸 New season, new looks."
+      },
+      {
+        "category_name": "KURTA AND BUNDIS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-27-57-272Z_KURTA-AND-BUNDIS.webp"
+      },
+      {
+        "category_description_2": "👔 Elegant Kurtas. Classic Bundis."
+      },
+      {
+        "category_name": "BANDGALAS / JODHPURI",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-28-39-861Z_BANDGALAS-JODHPURI.webp"
+      },
+      {
+        "category_description_4": "👑 Royal charm, modern style."
+      },
+      {
+        "category_name": "INDO WESTERN",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-29-12-802Z_INDO-WESTERN.webp"
+      },
+      {
+        "category_description_6": "✨ Tradition meets trend."
+      },
+      {
+        "category_name": "SHERWANIS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-30-43-403Z_SHERWANIS.webp"
+      },
+      {
+        "category_description_8": "🎉 Sherwanis crafted for your special day."
+      }
+    ],
+    "hero": [
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_0": ""
+      },
+      {
+        "hero_button_text_0": "",
+        "hero_button_link_0": ""
+      }
+    ],
+    "shop": [
+      {
+        "shop_category_name": "",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      }
+    ],
+    "products": [
+      {
+        "product_name": "",
+        "product_price": "",
+        "product_image": "",
+        "product_description": ""
+      }
+    ],
+    "instagram": [
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_0": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "",
+      "footer_address": "",
+      "footer_phone": "",
+      "footer_email": "",
+      "footer_copyright": ""
+    }
+  },
+  "filename": "2025-10-09-103114-configuration.json",
+  "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh",
+  "organizationName": "Bandhan",
+  "workspaceType": "organization"
+}
