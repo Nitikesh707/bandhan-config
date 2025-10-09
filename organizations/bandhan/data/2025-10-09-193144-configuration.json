@@ -1,0 +1,1557 @@
+{
+  "timestamp": "2025-10-09T19:31:44.641Z",
+  "data": {
+    "timestamp": "2025-10-09T19:31:44.212Z",
+    "brand": {
+      "brand_name": "Bandhan Store",
+      "brand_tagline": "Weaving Traditions, Celebrating You.",
+      "brand_logo": "/organizations/bandhan/upload_image/2025-10-09T10-26-08-629Z_unnamed.jpg",
+      "brand_website": "",
+      "brand_description": ""
+    },
+    "categories": [
+      {
+        "category_name": "NEW ARRIVALS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-26-41-767Z_NEW-ARRIVALS.webp"
+      },
+      {
+        "category_description_0": ""
+      },
+      {
+        "category_name": "KURTA AND BUNDIS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-27-57-272Z_KURTA-AND-BUNDIS.webp"
+      },
+      {
+        "category_description_2": ""
+      },
+      {
+        "category_name": "BANDGALAS / JODHPURI",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-28-39-861Z_BANDGALAS-JODHPURI.webp"
+      },
+      {
+        "category_description_4": ""
+      },
+      {
+        "category_name": "INDO WESTERN",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-29-12-802Z_INDO-WESTERN.webp"
+      },
+      {
+        "category_description_6": ""
+      },
+      {
+        "category_name": "SHERWANIS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-30-43-403Z_SHERWANIS.webp"
+      },
+      {
+        "category_description_8": ""
+      },
+      {
+        "category_name": "NAWABI",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-31-46-623Z_NAWABI.webp"
+      },
+      {
+        "category_description_10": ""
+      },
+      {
+        "category_name": "BLAZERS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-31-57-524Z_BLAZERS.webp"
+      },
+      {
+        "category_description_12": ""
+      },
+      {
+        "category_name": "BOTTOMS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-32-07-192Z_BOTTOMS.webp"
+      },
+      {
+        "category_description_14": ""
+      },
+      {
+        "category_name": "ACCESSORIES",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-09T10-32-20-223Z_ACCESSORIES.webp"
+      },
+      {
+        "category_description_16": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_18": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_20": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_22": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_24": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_26": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_28": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_30": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_32": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_34": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_36": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_38": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_40": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_42": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_44": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_46": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_48": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_50": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_52": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_54": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_56": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_58": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_60": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_62": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_64": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_66": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_68": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_70": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_72": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_74": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_76": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_78": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_80": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_82": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_84": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_86": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_88": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_90": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_92": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_94": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_96": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_98": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_100": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_102": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_104": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_106": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_108": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_110": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_112": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_114": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_116": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_118": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_120": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_122": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_124": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_126": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_128": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_130": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_132": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_134": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_136": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_138": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_140": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_142": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_144": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_146": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_148": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_150": ""
+      }
+    ],
+    "hero": [
+      {
+        "hero_title": "Classic Bandgalas | Elegant Blazers | Timeless Look",
+        "hero_image": "/organizations/bandhan/upload_image/2025-10-09T10-35-16-488Z_wp5208827.jpg"
+      },
+      {
+        "hero_description_0": ""
+      },
+      {
+        "hero_button_text_0": "",
+        "hero_button_link_0": ""
+      },
+      {
+        "hero_title": "Step into Royalty – Explore Jodhpuri",
+        "hero_image": "/organizations/bandhan/upload_image/2025-10-09T10-39-36-671Z_slide2.webp"
+      },
+      {
+        "hero_description_3": ""
+      },
+      {
+        "hero_button_text_3": "",
+        "hero_button_link_3": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_6": ""
+      },
+      {
+        "hero_button_text_6": "",
+        "hero_button_link_6": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_9": ""
+      },
+      {
+        "hero_button_text_9": "",
+        "hero_button_link_9": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_12": ""
+      },
+      {
+        "hero_button_text_12": "",
+        "hero_button_link_12": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_15": ""
+      },
+      {
+        "hero_button_text_15": "",
+        "hero_button_link_15": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_18": ""
+      },
+      {
+        "hero_button_text_18": "",
+        "hero_button_link_18": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_21": ""
+      },
+      {
+        "hero_button_text_21": "",
+        "hero_button_link_21": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_24": ""
+      },
+      {
+        "hero_button_text_24": "",
+        "hero_button_link_24": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_27": ""
+      },
+      {
+        "hero_button_text_27": "",
+        "hero_button_link_27": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_30": ""
+      },
+      {
+        "hero_button_text_30": "",
+        "hero_button_link_30": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_33": ""
+      },
+      {
+        "hero_button_text_33": "",
+        "hero_button_link_33": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_36": ""
+      },
+      {
+        "hero_button_text_36": "",
+        "hero_button_link_36": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_39": ""
+      },
+      {
+        "hero_button_text_39": "",
+        "hero_button_link_39": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_42": ""
+      },
+      {
+        "hero_button_text_42": "",
+        "hero_button_link_42": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_45": ""
+      },
+      {
+        "hero_button_text_45": "",
+        "hero_button_link_45": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_48": ""
+      },
+      {
+        "hero_button_text_48": "",
+        "hero_button_link_48": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_51": ""
+      },
+      {
+        "hero_button_text_51": "",
+        "hero_button_link_51": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_54": ""
+      },
+      {
+        "hero_button_text_54": "",
+        "hero_button_link_54": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_57": ""
+      },
+      {
+        "hero_button_text_57": "",
+        "hero_button_link_57": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_60": ""
+      },
+      {
+        "hero_button_text_60": "",
+        "hero_button_link_60": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_63": ""
+      },
+      {
+        "hero_button_text_63": "",
+        "hero_button_link_63": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_66": ""
+      },
+      {
+        "hero_button_text_66": "",
+        "hero_button_link_66": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_69": ""
+      },
+      {
+        "hero_button_text_69": "",
+        "hero_button_link_69": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_72": ""
+      },
+      {
+        "hero_button_text_72": "",
+        "hero_button_link_72": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_75": ""
+      },
+      {
+        "hero_button_text_75": "",
+        "hero_button_link_75": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_78": ""
+      },
+      {
+        "hero_button_text_78": "",
+        "hero_button_link_78": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_81": ""
+      },
+      {
+        "hero_button_text_81": "",
+        "hero_button_link_81": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_84": ""
+      },
+      {
+        "hero_button_text_84": "",
+        "hero_button_link_84": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_87": ""
+      },
+      {
+        "hero_button_text_87": "",
+        "hero_button_link_87": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_90": ""
+      },
+      {
+        "hero_button_text_90": "",
+        "hero_button_link_90": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_93": ""
+      },
+      {
+        "hero_button_text_93": "",
+        "hero_button_link_93": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_96": ""
+      },
+      {
+        "hero_button_text_96": "",
+        "hero_button_link_96": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_99": ""
+      },
+      {
+        "hero_button_text_99": "",
+        "hero_button_link_99": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_102": ""
+      },
+      {
+        "hero_button_text_102": "",
+        "hero_button_link_102": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_105": ""
+      },
+      {
+        "hero_button_text_105": "",
+        "hero_button_link_105": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_108": ""
+      },
+      {
+        "hero_button_text_108": "",
+        "hero_button_link_108": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_111": ""
+      },
+      {
+        "hero_button_text_111": "",
+        "hero_button_link_111": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_114": ""
+      },
+      {
+        "hero_button_text_114": "",
+        "hero_button_link_114": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_117": ""
+      },
+      {
+        "hero_button_text_117": "",
+        "hero_button_link_117": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_120": ""
+      },
+      {
+        "hero_button_text_120": "",
+        "hero_button_link_120": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_123": ""
+      },
+      {
+        "hero_button_text_123": "",
+        "hero_button_link_123": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_126": ""
+      },
+      {
+        "hero_button_text_126": "",
+        "hero_button_link_126": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_129": ""
+      },
+      {
+        "hero_button_text_129": "",
+        "hero_button_link_129": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_132": ""
+      },
+      {
+        "hero_button_text_132": "",
+        "hero_button_link_132": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_135": ""
+      },
+      {
+        "hero_button_text_135": "",
+        "hero_button_link_135": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_138": ""
+      },
+      {
+        "hero_button_text_138": "",
+        "hero_button_link_138": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_141": ""
+      },
+      {
+        "hero_button_text_141": "",
+        "hero_button_link_141": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_144": ""
+      },
+      {
+        "hero_button_text_144": "",
+        "hero_button_link_144": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_147": ""
+      },
+      {
+        "hero_button_text_147": "",
+        "hero_button_link_147": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_150": ""
+      },
+      {
+        "hero_button_text_150": "",
+        "hero_button_link_150": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_153": ""
+      },
+      {
+        "hero_button_text_153": "",
+        "hero_button_link_153": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_156": ""
+      },
+      {
+        "hero_button_text_156": "",
+        "hero_button_link_156": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_159": ""
+      },
+      {
+        "hero_button_text_159": "",
+        "hero_button_link_159": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_162": ""
+      },
+      {
+        "hero_button_text_162": "",
+        "hero_button_link_162": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_165": ""
+      },
+      {
+        "hero_button_text_165": "",
+        "hero_button_link_165": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_168": ""
+      },
+      {
+        "hero_button_text_168": "",
+        "hero_button_link_168": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_171": ""
+      },
+      {
+        "hero_button_text_171": "",
+        "hero_button_link_171": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_174": ""
+      },
+      {
+        "hero_button_text_174": "",
+        "hero_button_link_174": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_177": ""
+      },
+      {
+        "hero_button_text_177": "",
+        "hero_button_link_177": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_180": ""
+      },
+      {
+        "hero_button_text_180": "",
+        "hero_button_link_180": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_183": ""
+      },
+      {
+        "hero_button_text_183": "",
+        "hero_button_link_183": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_186": ""
+      },
+      {
+        "hero_button_text_186": "",
+        "hero_button_link_186": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_189": ""
+      },
+      {
+        "hero_button_text_189": "",
+        "hero_button_link_189": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_192": ""
+      },
+      {
+        "hero_button_text_192": "",
+        "hero_button_link_192": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_195": ""
+      },
+      {
+        "hero_button_text_195": "",
+        "hero_button_link_195": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_198": ""
+      },
+      {
+        "hero_button_text_198": "",
+        "hero_button_link_198": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_201": ""
+      },
+      {
+        "hero_button_text_201": "",
+        "hero_button_link_201": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_204": ""
+      },
+      {
+        "hero_button_text_204": "",
+        "hero_button_link_204": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_207": ""
+      },
+      {
+        "hero_button_text_207": "",
+        "hero_button_link_207": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_210": ""
+      },
+      {
+        "hero_button_text_210": "",
+        "hero_button_link_210": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_213": ""
+      },
+      {
+        "hero_button_text_213": "",
+        "hero_button_link_213": ""
+      }
+    ],
+    "shop": [
+      {
+        "shop_category_name": "NEW ARRIVALS",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "KURTA AND BUNDIS",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "BANDGALAS / JODHPURI",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "INDO WESTERN",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "INDO WESTERN",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "SHERWANIS",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "NAWABI",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "BLAZERS",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "BOTTOMS",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "ACCESSORIES",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      }
+    ],
+    "products": [
+      {
+        "product_name": "NEW ARRIVALS",
+        "product_price": "211",
+        "product_image": "/organizations/bandhan/upload_image/2025-10-09T10-42-13-697Z_ACCESSORIES.webp",
+        "product_description": ""
+      },
+      {
+        "product_name": "KURTA AND BUNDIS",
+        "product_price": "3121",
+        "product_image": "/organizations/bandhan/upload_image/2025-10-09T10-42-30-221Z_BOTTOMS.webp",
+        "product_description": ""
+      },
+      {
+        "product_name": "BANDGALAS / JODHPURI",
+        "product_price": "2111`",
+        "product_image": "/organizations/bandhan/upload_image/2025-10-09T10-42-42-618Z_INDO-WESTERN.webp",
+        "product_description": ""
+      },
+      {
+        "product_name": "",
+        "product_price": "",
+        "product_image": "",
+        "product_description": ""
+      },
+      {
+        "product_name": "",
+        "product_price": "",
+        "product_image": "",
+        "product_description": ""
+      },
+      {
+        "product_name": "",
+        "product_price": "",
+        "product_image": "",
+        "product_description": ""
+      }
+    ],
+    "instagram": [
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_0": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_2": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_4": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_6": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_8": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_10": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_12": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_14": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_16": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_18": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_20": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_22": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_24": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_26": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_28": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_30": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "The Bandhan store",
+      "footer_address": "Panvel City",
+      "footer_phone": "+919004580603",
+      "footer_email": "tambenick25@gmail.com",
+      "footer_copyright": "Copyright to Bandhan store  Name of Manufacturer - Bandhan Fashion Limited"
+    }
+  },
+  "filename": "2025-10-09-193144-configuration.json",
+  "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh",
+  "organizationName": "Bandhan",
+  "workspaceType": "organization"
+}
