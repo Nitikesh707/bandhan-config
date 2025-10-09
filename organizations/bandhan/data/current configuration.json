@@ -1,7 +1,7 @@
-issue still not resolve check json and tell my share me corrected: {
-  "timestamp": "2025-10-09T19:00:25.353Z",
+{
+  "timestamp": "2025-10-09T19:17:35.520Z",
   "data": {
-    "timestamp": "2025-10-09T19:00:24.963Z",
+    "timestamp": "2025-10-09T19:17:35.093Z",
     "brand": {
       "brand_name": "Bandhan Store",
       "brand_tagline": "Weaving Traditions, Celebrating You.",
@@ -142,12 +142,145 @@ issue still not resolve check json and tell my share me corrected: {
       },
       {
         "category_description_36": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_38": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_40": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_42": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_44": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_46": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_48": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_50": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_52": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_54": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_56": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_58": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_60": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_62": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_64": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_66": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_68": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_70": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_72": ""
+      },
+      {
+        "category_name": "",
+        "category_image": ""
+      },
+      {
+        "category_description_74": ""
       }
     ],
     "hero": [
       {
         "hero_title": "Classic Bandgalas | Elegant Blazers | Timeless Look",
-        "hero_image": "/organizations/bandhan/upload_image/2025-10-09T10-35-16-488Z_wp5208827.jpg"
+        "hero_image": "organizations/bandhan/upload_image/2025-10-09T10-35-16-488Z_wp5208827.jpg"
       },
       {
         "hero_description_0": ""
@@ -158,7 +291,7 @@ issue still not resolve check json and tell my share me corrected: {
       },
       {
         "hero_title": "Step into Royalty – Explore Jodhpuri",
-        "hero_image": "/organizations/bandhan/upload_image/2025-10-09T10-39-36-671Z_slide2.webp"
+        "hero_image": "organizations/bandhan/upload_image/2025-10-09T10-39-36-671Z_slide2.webp"
       },
       {
         "hero_description_3": ""
@@ -232,6 +365,182 @@ issue still not resolve check json and tell my share me corrected: {
       {
         "hero_button_text_21": "",
         "hero_button_link_21": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_24": ""
+      },
+      {
+        "hero_button_text_24": "",
+        "hero_button_link_24": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_27": ""
+      },
+      {
+        "hero_button_text_27": "",
+        "hero_button_link_27": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_30": ""
+      },
+      {
+        "hero_button_text_30": "",
+        "hero_button_link_30": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_33": ""
+      },
+      {
+        "hero_button_text_33": "",
+        "hero_button_link_33": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_36": ""
+      },
+      {
+        "hero_button_text_36": "",
+        "hero_button_link_36": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_39": ""
+      },
+      {
+        "hero_button_text_39": "",
+        "hero_button_link_39": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_42": ""
+      },
+      {
+        "hero_button_text_42": "",
+        "hero_button_link_42": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_45": ""
+      },
+      {
+        "hero_button_text_45": "",
+        "hero_button_link_45": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_48": ""
+      },
+      {
+        "hero_button_text_48": "",
+        "hero_button_link_48": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_51": ""
+      },
+      {
+        "hero_button_text_51": "",
+        "hero_button_link_51": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_54": ""
+      },
+      {
+        "hero_button_text_54": "",
+        "hero_button_link_54": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_57": ""
+      },
+      {
+        "hero_button_text_57": "",
+        "hero_button_link_57": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_60": ""
+      },
+      {
+        "hero_button_text_60": "",
+        "hero_button_link_60": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_63": ""
+      },
+      {
+        "hero_button_text_63": "",
+        "hero_button_link_63": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_66": ""
+      },
+      {
+        "hero_button_text_66": "",
+        "hero_button_link_66": ""
+      },
+      {
+        "hero_title": "",
+        "hero_image": ""
+      },
+      {
+        "hero_description_69": ""
+      },
+      {
+        "hero_button_text_69": "",
+        "hero_button_link_69": ""
       }
     ],
     "shop": [
@@ -352,6 +661,34 @@ issue still not resolve check json and tell my share me corrected: {
       },
       {
         "instagram_caption_6": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_8": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_10": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_12": ""
+      },
+      {
+        "instagram_image": "",
+        "instagram_link": ""
+      },
+      {
+        "instagram_caption_14": ""
       }
     ],
     "footer": {
@@ -362,7 +699,7 @@ issue still not resolve check json and tell my share me corrected: {
       "footer_copyright": "Copyright to Bandhan store  Name of Manufacturer - Bandhan Fashion Limited"
     }
   },
-  "filename": "2025-10-09-190024-configuration.json",
+  "filename": "2025-10-09-191735-configuration.json",
   "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
   "userName": "nitikesh",
   "organizationName": "Bandhan",
