@@ -1,13 +1,11 @@
 {
-  "timestamp": "2025-10-09T19:17:35.520Z",
+  "timestamp": "2025-10-09T19:31:44.641Z",
   "data": {
-    "timestamp": "2025-10-09T19:17:35.093Z",
+    "timestamp": "2025-10-09T19:31:44.212Z",
     "brand": {
       "brand_name": "Bandhan Store",
       "brand_tagline": "Weaving Traditions, Celebrating You.",
-      "brand_logo": "organizations/bandhan/upload_image/2025-10-09T10-26-08-629Z_unnamed.jpg",
-      "brand_website": "",
-      "brand_description": ""
+      "brand_logo": "organizations/bandhan/upload_image/2025-10-09T10-26-08-629Z_unnamed.jpg"
     },
     "categories": [
       {
@@ -15,266 +13,36 @@
         "category_image": "organizations/bandhan/upload_image/2025-10-09T10-26-41-767Z_NEW-ARRIVALS.webp"
       },
       {
-        "category_description_0": ""
-      },
-      {
         "category_name": "KURTA AND BUNDIS",
         "category_image": "organizations/bandhan/upload_image/2025-10-09T10-27-57-272Z_KURTA-AND-BUNDIS.webp"
-      },
-      {
-        "category_description_2": ""
       },
       {
         "category_name": "BANDGALAS / JODHPURI",
         "category_image": "organizations/bandhan/upload_image/2025-10-09T10-28-39-861Z_BANDGALAS-JODHPURI.webp"
       },
       {
-        "category_description_4": ""
-      },
-      {
         "category_name": "INDO WESTERN",
         "category_image": "organizations/bandhan/upload_image/2025-10-09T10-29-12-802Z_INDO-WESTERN.webp"
-      },
-      {
-        "category_description_6": ""
       },
       {
         "category_name": "SHERWANIS",
         "category_image": "organizations/bandhan/upload_image/2025-10-09T10-30-43-403Z_SHERWANIS.webp"
       },
       {
-        "category_description_8": ""
-      },
-      {
         "category_name": "NAWABI",
         "category_image": "organizations/bandhan/upload_image/2025-10-09T10-31-46-623Z_NAWABI.webp"
-      },
-      {
-        "category_description_10": ""
       },
       {
         "category_name": "BLAZERS",
         "category_image": "organizations/bandhan/upload_image/2025-10-09T10-31-57-524Z_BLAZERS.webp"
       },
       {
-        "category_description_12": ""
-      },
-      {
         "category_name": "BOTTOMS",
         "category_image": "organizations/bandhan/upload_image/2025-10-09T10-32-07-192Z_BOTTOMS.webp"
       },
       {
-        "category_description_14": ""
-      },
-      {
         "category_name": "ACCESSORIES",
         "category_image": "organizations/bandhan/upload_image/2025-10-09T10-32-20-223Z_ACCESSORIES.webp"
-      },
-      {
-        "category_description_16": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_18": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_20": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_22": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_24": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_26": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_28": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_30": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_32": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_34": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_36": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_38": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_40": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_42": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_44": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_46": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_48": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_50": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_52": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_54": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_56": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_58": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_60": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_62": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_64": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_66": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_68": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_70": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_72": ""
-      },
-      {
-        "category_name": "",
-        "category_image": ""
-      },
-      {
-        "category_description_74": ""
       }
     ],
     "hero": [
@@ -283,412 +51,57 @@
         "hero_image": "organizations/bandhan/upload_image/2025-10-09T10-35-16-488Z_wp5208827.jpg"
       },
       {
-        "hero_description_0": ""
-      },
-      {
-        "hero_button_text_0": "",
-        "hero_button_link_0": ""
-      },
-      {
         "hero_title": "Step into Royalty – Explore Jodhpuri",
         "hero_image": "organizations/bandhan/upload_image/2025-10-09T10-39-36-671Z_slide2.webp"
-      },
-      {
-        "hero_description_3": ""
-      },
-      {
-        "hero_button_text_3": "",
-        "hero_button_link_3": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_6": ""
-      },
-      {
-        "hero_button_text_6": "",
-        "hero_button_link_6": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_9": ""
-      },
-      {
-        "hero_button_text_9": "",
-        "hero_button_link_9": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_12": ""
-      },
-      {
-        "hero_button_text_12": "",
-        "hero_button_link_12": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_15": ""
-      },
-      {
-        "hero_button_text_15": "",
-        "hero_button_link_15": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_18": ""
-      },
-      {
-        "hero_button_text_18": "",
-        "hero_button_link_18": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_21": ""
-      },
-      {
-        "hero_button_text_21": "",
-        "hero_button_link_21": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_24": ""
-      },
-      {
-        "hero_button_text_24": "",
-        "hero_button_link_24": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_27": ""
-      },
-      {
-        "hero_button_text_27": "",
-        "hero_button_link_27": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_30": ""
-      },
-      {
-        "hero_button_text_30": "",
-        "hero_button_link_30": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_33": ""
-      },
-      {
-        "hero_button_text_33": "",
-        "hero_button_link_33": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_36": ""
-      },
-      {
-        "hero_button_text_36": "",
-        "hero_button_link_36": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_39": ""
-      },
-      {
-        "hero_button_text_39": "",
-        "hero_button_link_39": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_42": ""
-      },
-      {
-        "hero_button_text_42": "",
-        "hero_button_link_42": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_45": ""
-      },
-      {
-        "hero_button_text_45": "",
-        "hero_button_link_45": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_48": ""
-      },
-      {
-        "hero_button_text_48": "",
-        "hero_button_link_48": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_51": ""
-      },
-      {
-        "hero_button_text_51": "",
-        "hero_button_link_51": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_54": ""
-      },
-      {
-        "hero_button_text_54": "",
-        "hero_button_link_54": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_57": ""
-      },
-      {
-        "hero_button_text_57": "",
-        "hero_button_link_57": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_60": ""
-      },
-      {
-        "hero_button_text_60": "",
-        "hero_button_link_60": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_63": ""
-      },
-      {
-        "hero_button_text_63": "",
-        "hero_button_link_63": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_66": ""
-      },
-      {
-        "hero_button_text_66": "",
-        "hero_button_link_66": ""
-      },
-      {
-        "hero_title": "",
-        "hero_image": ""
-      },
-      {
-        "hero_description_69": ""
-      },
-      {
-        "hero_button_text_69": "",
-        "hero_button_link_69": ""
       }
     ],
     "shop": [
       {
-        "shop_category_name": "NEW ARRIVALS",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "NEW ARRIVALS"
       },
       {
-        "shop_category_name": "KURTA AND BUNDIS",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "KURTA AND BUNDIS"
       },
       {
-        "shop_category_name": "BANDGALAS / JODHPURI",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "BANDGALAS / JODHPURI"
       },
       {
-        "shop_category_name": "INDO WESTERN",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "INDO WESTERN"
       },
       {
-        "shop_category_name": "INDO WESTERN",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "INDO WESTERN"
       },
       {
-        "shop_category_name": "SHERWANIS",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "SHERWANIS"
       },
       {
-        "shop_category_name": "NAWABI",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "NAWABI"
       },
       {
-        "shop_category_name": "BLAZERS",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "BLAZERS"
       },
       {
-        "shop_category_name": "BOTTOMS",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "BOTTOMS"
       },
       {
-        "shop_category_name": "ACCESSORIES",
-        "shop_category_link": "",
-        "shop_category_image": ""
+        "shop_category_name": "ACCESSORIES"
       }
     ],
     "products": [
       {
         "product_name": "NEW ARRIVALS",
         "product_price": "211",
-        "product_image": "organizations/bandhan/upload_image/2025-10-09T10-42-13-697Z_ACCESSORIES.webp",
-        "product_description": ""
+        "product_image": "organizations/bandhan/upload_image/2025-10-09T10-42-13-697Z_ACCESSORIES.webp"
       },
       {
         "product_name": "KURTA AND BUNDIS",
         "product_price": "3121",
-        "product_image": "organizations/bandhan/upload_image/2025-10-09T10-42-30-221Z_BOTTOMS.webp",
-        "product_description": ""
+        "product_image": "organizations/bandhan/upload_image/2025-10-09T10-42-30-221Z_BOTTOMS.webp"
       },
       {
         "product_name": "BANDGALAS / JODHPURI",
-        "product_price": "2111`",
-        "product_image": "organizations/bandhan/upload_image/2025-10-09T10-42-42-618Z_INDO-WESTERN.webp",
-        "product_description": ""
-      },
-      {
-        "product_name": "",
-        "product_price": "",
-        "product_image": "",
-        "product_description": ""
-      },
-      {
-        "product_name": "",
-        "product_price": "",
-        "product_image": "",
-        "product_description": ""
-      },
-      {
-        "product_name": "",
-        "product_price": "",
-        "product_image": "",
-        "product_description": ""
-      }
-    ],
-    "instagram": [
-      {
-        "instagram_image": "",
-        "instagram_link": ""
-      },
-      {
-        "instagram_caption_0": ""
-      },
-      {
-        "instagram_image": "",
-        "instagram_link": ""
-      },
-      {
-        "instagram_caption_2": ""
-      },
-      {
-        "instagram_image": "",
-        "instagram_link": ""
-      },
-      {
-        "instagram_caption_4": ""
-      },
-      {
-        "instagram_image": "",
-        "instagram_link": ""
-      },
-      {
-        "instagram_caption_6": ""
-      },
-      {
-        "instagram_image": "",
-        "instagram_link": ""
-      },
-      {
-        "instagram_caption_8": ""
-      },
-      {
-        "instagram_image": "",
-        "instagram_link": ""
-      },
-      {
-        "instagram_caption_10": ""
-      },
-      {
-        "instagram_image": "",
-        "instagram_link": ""
-      },
-      {
-        "instagram_caption_12": ""
-      },
-      {
-        "instagram_image": "",
-        "instagram_link": ""
-      },
-      {
-        "instagram_caption_14": ""
+        "product_price": "2111",
+        "product_image": "organizations/bandhan/upload_image/2025-10-09T10-42-42-618Z_INDO-WESTERN.webp"
       }
     ],
     "footer": {
@@ -699,7 +112,7 @@
       "footer_copyright": "Copyright to Bandhan store  Name of Manufacturer - Bandhan Fashion Limited"
     }
   },
-  "filename": "2025-10-09-191735-configuration.json",
+  "filename": "2025-10-09-193144-configuration.json",
   "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
   "userName": "nitikesh",
   "organizationName": "Bandhan",
