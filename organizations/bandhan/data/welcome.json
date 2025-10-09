@@ -1,0 +1,17 @@
+{
+  "message": "Welcome to Bandhan shared workspace!",
+  "user": "nitikesh@tambnick25.onmicrosoft.com",
+  "organization": "Bandhan",
+  "workspaceType": "organization",
+  "created": "2025-10-09T08:44:32.517Z",
+  "workspace": {
+    "dataDirectory": "organizations\\bandhan\\data",
+    "uploadDirectory": "organizations\\bandhan\\upload_image"
+  },
+  "tips": [
+    "This is a shared workspace for Bandhan",
+    "All members of your organization groups can access this workspace",
+    "Files you upload here will be visible to other organization members",
+    "Use this space to collaborate with your team"
+  ]
+}
