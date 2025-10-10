@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-10T11:24:22.839Z",
+  "timestamp": "2025-10-10T11:26:39.698Z",
   "data": {
-    "timestamp": "2025-10-10T11:24:22.396Z",
+    "timestamp": "2025-10-10T11:26:39.284Z",
     "brand": {
       "brand_name": "Bandhan Store",
       "brand_tagline": "Weaving Traditions, Celebrating You.",
@@ -11,6 +11,9 @@
       {
         "category_name": "NEW ARRIVALS",
         "category_image": "organizations/bandhan/upload_image/2025-10-10T11-24-18-745Z_NEW-ARRIVALS.webp"
+      },
+      {
+        "category_description_0": "NEW product"
       },
       {
         "category_name": "KURTA AND BUNDIS",
@@ -112,7 +115,7 @@
       "footer_copyright": "Copyright to Bandhan store  Name of Manufacturer - Bandhan Fashion Limited"
     }
   },
-  "filename": "2025-10-10-165422-configuration.json",
+  "filename": "2025-10-10-165639-configuration.json",
   "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
   "userName": "nitikesh",
   "organizationName": "Bandhan",
