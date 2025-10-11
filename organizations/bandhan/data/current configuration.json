@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-11T09:18:03.824Z",
+  "timestamp": "2025-10-11T09:20:48.720Z",
   "data": {
-    "timestamp": "2025-10-11T09:18:03.375Z",
+    "timestamp": "2025-10-11T09:20:48.312Z",
     "brand": {
       "brand_name": "Bandhan Store",
       "brand_tagline": "Crafted for Your Grand Occasions",
@@ -100,9 +100,9 @@
     ],
     "instagram": [
       {
-        "instagram_image": "",
-        "instagram_link": "",
-        "instagram_caption": ""
+        "instagram_image": "/organizations/bandhan/upload_image/2025-10-11T09-20-28-957Z_logo.jpg",
+        "instagram_link": "https://www.youtube.com",
+        "instagram_caption": "insta"
       }
     ],
     "story": [
@@ -120,7 +120,7 @@
       "footer_copyright": ""
     }
   },
-  "filename": "2025-10-11-144803-configuration.json",
+  "filename": "2025-10-11-145048-configuration.json",
   "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
   "userName": "nitikesh",
   "organizationName": "Bandhan",
