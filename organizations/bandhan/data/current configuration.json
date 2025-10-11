@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-11T09:12:28.292Z",
+  "timestamp": "2025-10-11T09:15:09.420Z",
   "data": {
-    "timestamp": "2025-10-11T09:12:27.868Z",
+    "timestamp": "2025-10-11T09:15:09.036Z",
     "brand": {
       "brand_name": "Bandhan Store",
       "brand_tagline": "Crafted for Your Grand Occasions",
@@ -86,10 +86,16 @@
     ],
     "products": [
       {
-        "product_name": "",
-        "product_price": "",
-        "product_image": "",
-        "product_description": ""
+        "product_name": "NEW ARRIVALS",
+        "product_price": "34412",
+        "product_image": "/organizations/bandhan/upload_image/2025-10-11T09-14-46-814Z_logo__2_.png",
+        "product_description": "asdsdbgfbxfza"
+      },
+      {
+        "product_name": "KURTA AND BUNDIS1",
+        "product_price": "wr24",
+        "product_image": "/organizations/bandhan/upload_image/2025-10-11T09-15-04-274Z_1ae44844-b436-4fd7-b425-c5287f066067.png",
+        "product_description": "aweet4wfeas"
       }
     ],
     "instagram": [
@@ -114,7 +120,7 @@
       "footer_copyright": ""
     }
   },
-  "filename": "2025-10-11-144227-configuration.json",
+  "filename": "2025-10-11-144509-configuration.json",
   "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
   "userName": "nitikesh",
   "organizationName": "Bandhan",
