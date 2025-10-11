@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-11T09:01:37.616Z",
+  "timestamp": "2025-10-11T09:12:28.292Z",
   "data": {
-    "timestamp": "2025-10-11T09:01:36.169Z",
+    "timestamp": "2025-10-11T09:12:27.868Z",
     "brand": {
       "brand_name": "Bandhan Store",
       "brand_tagline": "Crafted for Your Grand Occasions",
@@ -74,8 +74,13 @@
     ],
     "shop": [
       {
-        "shop_category_name": "",
-        "shop_category_link": "",
+        "shop_category_name": "shop1",
+        "shop_category_link": "https://Categorydemolink.in/",
+        "shop_category_image": ""
+      },
+      {
+        "shop_category_name": "shop2",
+        "shop_category_link": "https://Categorydemolink.in/2",
         "shop_category_image": ""
       }
     ],
@@ -109,7 +114,7 @@
       "footer_copyright": ""
     }
   },
-  "filename": "2025-10-11-143136-configuration.json",
+  "filename": "2025-10-11-144227-configuration.json",
   "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
   "userName": "nitikesh",
   "organizationName": "Bandhan",
