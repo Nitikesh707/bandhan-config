@@ -1,0 +1,117 @@
+{
+  "timestamp": "2025-10-11T09:01:37.616Z",
+  "data": {
+    "timestamp": "2025-10-11T09:01:36.169Z",
+    "brand": {
+      "brand_name": "Bandhan Store",
+      "brand_tagline": "Crafted for Your Grand Occasions",
+      "brand_logo": "/organizations/bandhan/upload_image/2025-10-11T08-28-16-070Z_unnamed.jpg",
+      "brand_website": "https://bandhanstore.in/",
+      "brand_description": "Bandhan is a celebration of timeless Indian elegance. We bring together exquisite craftsmanship, luxurious fabrics, and contemporary designs to create ethnic wear that reflects royalty and grace. From regal sherwanis to sophisticated bandhgalas, every piece at Bandhan is crafted to make your special moments truly unforgettable."
+    },
+    "categories": [
+      {
+        "category_name": "NEW ARRIVALS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-11T08-29-19-294Z_NEW-ARRIVALS.webp",
+        "category_description": "Classic kurtas paired with stylish bundis that blend comfort with culture. Perfect for festive celebrations, weddings, and elegant everyday wear."
+      },
+      {
+        "category_name": "KURTA AND BUNDIS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-11T08-31-15-929Z_KURTA-AND-BUNDIS.webp",
+        "category_description": "Classic kurtas paired with stylish bundis that blend comfort with culture. Perfect for festive celebrations, weddings, and elegant everyday wear."
+      },
+      {
+        "category_name": "BANDGALAS / JODHPURI",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-11T08-32-33-273Z_BANDGALAS-JODHPURI.webp",
+        "category_description": "Experience royal sophistication with our Bandhgalas and Jodhpuri suits — tailored to perfection for a regal and refined look."
+      },
+      {
+        "category_name": "INDO WESTERN",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-11T08-32-58-258Z_INDO-WESTERN.webp",
+        "category_description": "A modern fusion of Indian tradition and Western flair — crafted for those who love to make a bold style statement."
+      },
+      {
+        "category_name": "SHERWANIS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-11T08-33-26-394Z_SHERWANIS.webp",
+        "category_description": "Elegant sherwanis designed for grooms and festive occasions — where tradition meets grandeur in every detail."
+      },
+      {
+        "category_name": "NAWABI",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-11T08-33-52-245Z_NAWABI.webp",
+        "category_description": "Step into timeless royalty with Nawabi ensembles inspired by Mughal elegance and rich Indian heritage."
+      },
+      {
+        "category_name": "BLAZERS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-11T08-34-14-002Z_BLAZERS.webp",
+        "category_description": "Sophisticated blazers that add a touch of modern charm to your ethnic or formal look — versatile and tailored for perfection."
+      },
+      {
+        "category_name": "BOTTOMS",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-11T08-34-37-800Z_BOTTOMS.webp",
+        "category_description": "From classic churidars to trendy trousers — find the perfect pair to complete your traditional or fusion outfit."
+      },
+      {
+        "category_name": "ACCESSORIES",
+        "category_image": "/organizations/bandhan/upload_image/2025-10-11T08-35-02-675Z_ACCESSORIES.webp",
+        "category_description": "Enhance your outfit with curated accessories — from elegant stoles to brooches and turbans, the perfect finishing touch to your ensemble."
+      }
+    ],
+    "hero": [
+      {
+        "hero_title": "Tailored for Confidence, Designed for You.",
+        "hero_image": "/organizations/bandhan/upload_image/2025-10-11T08-38-59-298Z_wp5208827.jpg",
+        "hero_description": "Step into refined style with our handcrafted blazers that blend modern tailoring and timeless sophistication.",
+        "hero_button_text": "Shop Now",
+        "hero_button_link": "https://www.youtube.com/"
+      },
+      {
+        "hero_title": "Embrace Royal Elegance with Our Traditional Blazers.",
+        "hero_image": "/organizations/bandhan/upload_image/2025-10-11T09-00-39-022Z_slide2.webp",
+        "hero_description": "Embrace royal elegance with our handcrafted traditional blazers — a perfect blend of heritage and sophistication.",
+        "hero_button_text": "View Blazer Collection",
+        "hero_button_link": "https://portal.azure.com/"
+      }
+    ],
+    "shop": [
+      {
+        "shop_category_name": "",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      }
+    ],
+    "products": [
+      {
+        "product_name": "",
+        "product_price": "",
+        "product_image": "",
+        "product_description": ""
+      }
+    ],
+    "instagram": [
+      {
+        "instagram_image": "",
+        "instagram_link": "",
+        "instagram_caption": ""
+      }
+    ],
+    "story": [
+      {
+        "story_title": "",
+        "story_video": "",
+        "story_description": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "",
+      "footer_address": "",
+      "footer_phone": "",
+      "footer_email": "",
+      "footer_copyright": ""
+    }
+  },
+  "filename": "2025-10-11-143136-configuration.json",
+  "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh",
+  "organizationName": "Bandhan",
+  "workspaceType": "organization"
+}
