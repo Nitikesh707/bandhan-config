@@ -1,0 +1,70 @@
+{
+  "timestamp": "2025-10-11T08:25:42.287Z",
+  "data": {
+    "timestamp": "2025-10-11T08:25:41.865Z",
+    "brand": {
+      "brand_name": "",
+      "brand_tagline": "",
+      "brand_logo": "",
+      "brand_website": "",
+      "brand_description": ""
+    },
+    "categories": [
+      {
+        "category_name": "",
+        "category_image": "",
+        "category_description": ""
+      }
+    ],
+    "hero": [
+      {
+        "hero_title": "",
+        "hero_image": "",
+        "hero_description": "",
+        "hero_button_text": "",
+        "hero_button_link": ""
+      }
+    ],
+    "shop": [
+      {
+        "shop_category_name": "",
+        "shop_category_link": "",
+        "shop_category_image": ""
+      }
+    ],
+    "products": [
+      {
+        "product_name": "",
+        "product_price": "",
+        "product_image": "",
+        "product_description": ""
+      }
+    ],
+    "instagram": [
+      {
+        "instagram_image": "",
+        "instagram_link": "",
+        "instagram_caption": ""
+      }
+    ],
+    "story": [
+      {
+        "story_title": "",
+        "story_video": "",
+        "story_description": ""
+      }
+    ],
+    "footer": {
+      "footer_company": "",
+      "footer_address": "",
+      "footer_phone": "",
+      "footer_email": "",
+      "footer_copyright": ""
+    }
+  },
+  "filename": "2025-10-11-135541-configuration.json",
+  "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
+  "userName": "nitikesh",
+  "organizationName": "Bandhan",
+  "workspaceType": "organization"
+}
