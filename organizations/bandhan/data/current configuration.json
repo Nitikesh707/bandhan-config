@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-11T08:41:42.387Z",
+  "timestamp": "2025-10-11T09:01:37.616Z",
   "data": {
-    "timestamp": "2025-10-11T08:41:42.006Z",
+    "timestamp": "2025-10-11T09:01:36.169Z",
     "brand": {
       "brand_name": "Bandhan Store",
       "brand_tagline": "Crafted for Your Grand Occasions",
@@ -65,11 +65,11 @@
         "hero_button_link": "https://www.youtube.com/"
       },
       {
-        "hero_title": "",
-        "hero_image": "",
-        "hero_description": "",
-        "hero_button_text": "",
-        "hero_button_link": ""
+        "hero_title": "Embrace Royal Elegance with Our Traditional Blazers.",
+        "hero_image": "/organizations/bandhan/upload_image/2025-10-11T09-00-39-022Z_slide2.webp",
+        "hero_description": "Embrace royal elegance with our handcrafted traditional blazers — a perfect blend of heritage and sophistication.",
+        "hero_button_text": "View Blazer Collection",
+        "hero_button_link": "https://portal.azure.com/"
       }
     ],
     "shop": [
@@ -109,7 +109,7 @@
       "footer_copyright": ""
     }
   },
-  "filename": "2025-10-11-141142-configuration.json",
+  "filename": "2025-10-11-143136-configuration.json",
   "userEmail": "nitikesh@tambnick25.onmicrosoft.com",
   "userName": "nitikesh",
   "organizationName": "Bandhan",
